@@ -1,0 +1,11 @@
+C:\Users\IT-Aowal\Documents\Visual Studio 2017\Projects\AdSite(AMP)\AdSite(AMP)\bin\Debug\netcoreapp2.0\AdSite(AMP).deps.json
+C:\Users\IT-Aowal\Documents\Visual Studio 2017\Projects\AdSite(AMP)\AdSite(AMP)\bin\Debug\netcoreapp2.0\AdSite(AMP).runtimeconfig.json
+C:\Users\IT-Aowal\Documents\Visual Studio 2017\Projects\AdSite(AMP)\AdSite(AMP)\bin\Debug\netcoreapp2.0\AdSite(AMP).runtimeconfig.dev.json
+C:\Users\IT-Aowal\Documents\Visual Studio 2017\Projects\AdSite(AMP)\AdSite(AMP)\bin\Debug\netcoreapp2.0\AdSite(AMP).dll
+C:\Users\IT-Aowal\Documents\Visual Studio 2017\Projects\AdSite(AMP)\AdSite(AMP)\bin\Debug\netcoreapp2.0\AdSite(AMP).pdb
+C:\Users\IT-Aowal\Documents\Visual Studio 2017\Projects\AdSite(AMP)\AdSite(AMP)\obj\Debug\netcoreapp2.0\AdSite(AMP).csprojAssemblyReference.cache
+C:\Users\IT-Aowal\Documents\Visual Studio 2017\Projects\AdSite(AMP)\AdSite(AMP)\obj\Debug\netcoreapp2.0\AdSite(AMP).csproj.CoreCompileInputs.cache
+C:\Users\IT-Aowal\Documents\Visual Studio 2017\Projects\AdSite(AMP)\AdSite(AMP)\obj\Debug\netcoreapp2.0\AdSite(AMP).AssemblyInfoInputs.cache
+C:\Users\IT-Aowal\Documents\Visual Studio 2017\Projects\AdSite(AMP)\AdSite(AMP)\obj\Debug\netcoreapp2.0\AdSite(AMP).AssemblyInfo.cs
+C:\Users\IT-Aowal\Documents\Visual Studio 2017\Projects\AdSite(AMP)\AdSite(AMP)\obj\Debug\netcoreapp2.0\AdSite(AMP).dll
+C:\Users\IT-Aowal\Documents\Visual Studio 2017\Projects\AdSite(AMP)\AdSite(AMP)\obj\Debug\netcoreapp2.0\AdSite(AMP).pdb
